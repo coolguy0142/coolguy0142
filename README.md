@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**coolguy0142/coolguy0142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# KRIS RAM
+### *Computer Systems Engineering Student*
 
-Here are some ideas to get you started:
+Elegant code. Thoughtful systems. Intentional design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## Profile
+
+I’m a Computer Systems Engineering student focused on building clean, reliable, and well-crafted solutions.
+
+I value precision, simplicity, and systems that are designed with purpose.
+
+---
+
+## Stack
+
+`Java` `Python` `C` `Git` `GitHub` `VS Code` `IntelliJ`
+
+---
+
+## Projects
+
+**Project One**  
+COMING SOON!!!
+
+**Project Two**  
+COMING SOON!!!
+
+**Project Three**  
+COMING SOON!!!
+
+---
+
+## Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coolguy0142&show_icons=true&theme=transparent&hide_border=true&title_color=D4AF37&text_color=E5E5E5&icon_color=D4AF37)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coolguy0142&layout=compact&theme=transparent&hide_border=true&title_color=D4AF37&text_color=E5E5E5)
+
+---
+
+## Contact
+
+[GitHub](https://github.com/coolguy0142) • [LinkedIn](https://linkedin.com/in/COMINGSOON!!!) • [Email](mailto:krissilv123@gmail.com)
